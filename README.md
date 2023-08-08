@@ -11,4 +11,8 @@ For this project, you’ll design the tables to hold the data from the CSV files
 I used QuickDatabaseDiagrams to create an Entity Relationship Diagram (ERD) and the corresponding SQL query to create the table schemas. This application is free, and it provides an export function that allows me to export the PostgreSQL table schema query for creating the tables.
 
 The exported file, "quickdatabasetext.txt," contains the text that the program understands and uses to generate a visual table diagram showing the tables, primary keys, foreign keys, entity relationships across tables, and data types. Additionally, I have included a screenshot file named "quickdatabasediagrams.png" to provide a visual representation of what you would see when the "quickdatabasetext.txt" is input into the program.
+
+
+## Data Engineering
+
 ## Data Analysis
