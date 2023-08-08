@@ -1,6 +1,10 @@
 ## Module 9 Chellenge
 
-This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
+This Challenge is divided into three parts: 
+* Data modeling
+* Data engineering
+* Data analysis
+  
 We will be using:
 * quickdatabasediagrams
 * SQL
