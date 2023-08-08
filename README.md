@@ -8,6 +8,8 @@ Overview:
 Tools:
 * quickdatabasediagrams
 * SQL
+  * pgAdmin
+  * PostgreSQL
 * Python
   * Jupyter Notebook
   * Pandas
