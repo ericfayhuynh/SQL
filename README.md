@@ -8,5 +8,6 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 
 ### Data Modeling
+I used quickdatabasediagrams to create an entity relationship diagram and the query to create the table schemas. The application is free and it has an export function that I will be using to export the PostgreSQL table schema query to create the tables. There is the quickdatabasetext.txt file that has the text that the program will understand and output a visual table diagram showing the tables, primary keys, foreign keys, entity relationships across tables, and data types. There is a screenshot file named quickdatabasediagrams.png for your convenience.
 ### Data Engineering
 ### Data Analysis
