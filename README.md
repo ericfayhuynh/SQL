@@ -1,4 +1,4 @@
-### Module 9 Challenge
+# Module 9 Challenge
 
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
