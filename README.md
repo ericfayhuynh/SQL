@@ -5,7 +5,7 @@ Overview:
 * Data engineering
 * Data analysis
   
-Tools:
+Languages/Tools:
 * quickdatabasediagrams
 * SQL
   * pgAdmin
