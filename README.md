@@ -1,9 +1,9 @@
 ## Module 9 Chellenge
 
 Overview:
-* Data modeling
-* Data engineering
-* Data analysis
+* 🧩Data modeling
+* 🛠️Data engineering
+* 📈Data analysis
   
 Languages/Tools:
 * quickdatabasediagrams
